@@ -1,6 +1,5 @@
 # StudyJava
-My initial studies abaout java
+My initial studies about java
 
-# gravando mudanças no repositório  
-# teste git diff
-## salvando alterações git 
+## salvando alterações no git
+* comando git push
